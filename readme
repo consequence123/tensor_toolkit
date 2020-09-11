@@ -1,0 +1,3 @@
+python setup.py sdist
+tar zxvf 
+python setup.py install
